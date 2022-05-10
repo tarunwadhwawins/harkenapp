@@ -1,0 +1,116 @@
+
+@font-face {
+    font-family: 'roboto_slabthin';
+    src: url('roboto-slab-v7-latin-100-webfont.woff2') format('woff2'),
+         url('roboto-slab-v7-latin-100-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'roboto_slablight';
+    src: url('roboto-slab-v7-latin-300-webfont.woff2') format('woff2'),
+         url('roboto-slab-v7-latin-300-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'roboto_slabbold';
+    src: url('roboto-slab-v7-latin-700-webfont.woff2') format('woff2'),
+         url('roboto-slab-v7-latin-700-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'roboto_slabregular';
+    src: url('roboto-slab-v7-latin-regular-webfont.woff2') format('woff2'),
+         url('roboto-slab-v7-latin-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'montserrat_thinregular';
+    src: url('montserrat-v11-latin-100-webfont.woff2') format('woff2'),
+         url('montserrat-v11-latin-100-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'montserrat_extralightitalic';
+    src: url('montserrat-v11-latin-200italic-webfont.woff2') format('woff2'),
+         url('montserrat-v11-latin-200italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'montserrat_lightregular';
+    src: url('montserrat-v11-latin-300-webfont.woff2') format('woff2'),
+         url('montserrat-v11-latin-300-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'montserrat_mediumregular';
+    src: url('montserrat-v11-latin-500-webfont.woff2') format('woff2'),
+         url('montserrat-v11-latin-500-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'montserrat_semiboldregular';
+    src: url('montserrat-v11-latin-600-webfont.woff2') format('woff2'),
+         url('montserrat-v11-latin-600-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'montserratbold';
+    src: url('montserrat-v11-latin-700-webfont.woff2') format('woff2'),
+         url('montserrat-v11-latin-700-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'montserrat_extraboldregular';
+    src: url('montserrat-v11-latin-800-webfont.woff2') format('woff2'),
+         url('montserrat-v11-latin-800-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'montserrat_blackregular';
+    src: url('montserrat-v11-latin-900-webfont.woff2') format('woff2'),
+         url('montserrat-v11-latin-900-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'montserratitalic';
+    src: url('montserrat-v11-latin-italic-webfont.woff2') format('woff2'),
+         url('montserrat-v11-latin-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'montserratregular';
+    src: url('montserrat-v11-latin-regular-webfont.woff2') format('woff2'),
+         url('montserrat-v11-latin-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
