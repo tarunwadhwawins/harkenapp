@@ -2,6 +2,7 @@ import styled from "styled-components";
 import Colors from "../../../assets/style/Colors";
 import Icon from "../icon/Icon";
 
+
 const CommonBtn = styled.button`
     background-color: ${Colors.blue};
     text-transform: uppercase;
